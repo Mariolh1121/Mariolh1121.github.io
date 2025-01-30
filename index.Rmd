@@ -1,6 +1,6 @@
 ---
 title: "Mario Alberto Limón Hernández"
-image: "frank.jpg"
+image: "mi_foto.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/mario-alberto-lim%C3%B3n-hernandez-740978225/"
@@ -9,32 +9,49 @@ links:
   - label: GitHub
     url: "https://github.com/Mariolh1121"
   - label: Email
-    url: "mariolh@lcg.unam.mx"
+    url: "mailto:mariolh@lcg.unam.mx"
+  - label: Bluesky
+    url: "https://bsky.app/profile/mariol21.bsky.social"
+
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I am a Genomic Sciences undergraduate student at UNAM. At the moment working at
+FreyreLab as a research assistant in the development of a Python tool 
+for semantic similarity analysis using biomedical ontologies. I am interested in
+bioinformatics, data science and machine learning.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Tecnológico de Monterrey** | Mexico, Morelos
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Highschool | September 2020 - May 2023
 
-**The University of California, Berkeley** | Berkeley, CA
+**National Autonomous University of Mexico (UNAM)** | Mexico, Morelos
 
-B.S. in Computer Science | September 2005 - May 2009
+Undergraduate in Genomic Sciences | September 2023 - Present
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Freyrelab** | research assistant | January 2024 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+## About myself
+
+I am passionate for learning new things, developing new programming skills and
+working on projects that help me grow as a person and as a professional. I am a 
+big fan of music, I play the guitar and piano and I love indie alternative rock. 
+I used to have a band with my friends and we played in some great scenarios in 
+my city. I love to spend time with my family. I am also a big supporter of FC 
+Barcelona and I love watching soccer games.
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="imagen2.jpg" alt="Image description" style="width: 45%;">
+  <img src="imagen3.jpg" alt="Another Image description" style="width: 45%;">
+  <img src="imagen4.jpg" alt="Another Image description" style="width: 45%;">
+  <img src="imagen5.jpg" alt="Another Image description" style="width: 45%;">
+</div>
+
+
